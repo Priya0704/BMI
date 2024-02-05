@@ -203,7 +203,7 @@
     <div class = "content"><br>
     <h2>BMI Calculator</h2>
     <?php if($missingFields){ ?>
-        <p class="error">There was some problem. Please make sure you filled all fields.</p>
+        <p class="error">There was some problem. Please make sure you filled all fields. please check it again!!!</p>
     <?php } else { ?>
         <p>Fill each fealds and select units for height, Then click "Calculate BMI" button.</p>
     <?php } ?>
